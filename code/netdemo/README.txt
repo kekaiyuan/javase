@@ -1,0 +1,12 @@
+TCP通信
+    客户端向服务端单方向通信
+        Client、Server
+    客户端与服务端双向通信
+        Client2、Server2
+    通过Socket复制图片
+        PictureClient、PictureServer
+    登录功能
+        LoginClient、LoginServer、LoginServer2（用线程实现了一对多）
+UDP通信
+    客户端向服务端单方向通信
+        UDPClient、UDPServer
